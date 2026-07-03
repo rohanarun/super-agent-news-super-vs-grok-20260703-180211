@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[theaijournal.co](https://theaijournal.co/2026/05/grok-4-3-benchmarks-agentic-tasks-2026/)",
+    "[perplexityaimagazine.com](https://perplexityaimagazine.com/ai-tools/grok-ai-review-2026/)",
+    "[blog.google](https://blog.google)",
+    "[Memeburn](https://memeburn.com)",
+    "[TradingView](https://news.google.com/rss/articles/CBMiywFBVV95cUxQMGtRZUllbXdTTHpwYktZTU1fQmRyVzFDdXAwczJVdXJhS01wc0FlbFR2Uzk1LS1LYkZDdnJyWjFyRUcwT3BHTHVKVGhIVS1iT0htUTRqeEctVHZSSHNycUxLSXFwOWJOU05FcmQxaWtNV3IzdWszbXZFMkNmV01wT08wSjVXZVlONjRBNlBsS3QyNHpUdC1kMi1obkZZdWZvZEJvMjYtdVZiVi1oWHFjdG1LTDRFNDFOeTdhWGlyaVp5aFlBLW1oVkoxSQ?oc=5)"
+  ],
+  "design_plan": "rng=Deterministic(42);AIDA=pass;HeroMath=max1120px,2-3lines;BentoDensity=grid-auto-flow:dense verified;LabelSweep=competitors mentioned;ButtonContrast=AA;Animations=GSAP guarded",
+  "generated_at": "2026-07-03T18:02:18.700458+00:00",
+  "headline": "Super vs Grok \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Grok",
+    "competitor": "Grok",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Grok. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Grok AI agent",
+      "Grok AI assistant",
+      "Grok automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-grok",
+    "title": "Super vs Grok"
+  },
+  "summary": "A fair comparison of Super and Grok for people choosing a personal AI agent. Grok excels at real\u2011time intelligence and agentic benchmarks; Super is built for durable computer\u2011use workflows with a reusable computer\u2011use cache that makes repeated tasks faster and cheaper over time."
+}
